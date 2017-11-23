@@ -34,5 +34,5 @@ int main(void){
     a = Avarage(kokugo, rika, syakai);
 
     printf("‡Œv:%d ",s);
-    printf("•½‹Ï;%d",a);
+    printf("•½‹Ï;%d\n",a);
 }
